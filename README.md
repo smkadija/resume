@@ -2,7 +2,7 @@
   <img src="Profile-round.png" width="150" alt="S.M. Kadija">
 </p>
 
-<h1 align="center">S M Kadija Munni</h1>
+<h1 align="center">S M Kadija</h1>
 
 <p align="center">
   <strong>Graphic Designer | UI/UX Designer | Web Developer | Flutter Developer</strong>
